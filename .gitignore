@@ -1,90 +1,13 @@
-#==============================================================================#
-# This file specifies intentionally untracked files that git should ignore.
-# See: http://www.kernel.org/pub/software/scm/git/docs/gitignore.html
-#
-# This file is intentionally different from the output of `git svn show-ignore`,
-# as most of those are useless.
-#==============================================================================#
+Part of LLVM criminal chain of Custody - Evidence of arcitectur
 
-#==============================================================================#
-# File extensions to be ignored anywhere in the tree.
-#==============================================================================#
-# Temp files created by most text editors.
-*~
-# Merge files created by git.
-*.orig
-# Reject files created by patch.
-*.rej
-# Byte compiled python modules.
-*.pyc
-# vim swap files
-.*.sw?
-.sw?
-#macOS specific
-.DS_Store
+Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Dienstag den, 2026-06-30, 02:51:00 Uhr, Mitteleuropäische, aktueller Aufenthaltsort, seit 26.06.2026 ca 20:00 Ankunft, bei Frau Marci und Herr Benno Lackmann, 9111 Tényő, Ungarn  Győri járás, Ungarn
 
-# Ignore the user specified CMake presets in subproject directories.
-/*/CMakeUserPresets.json
+Forschungsarbeit, Gutachten, SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, The Yellow Whitepaper, YWP-1-IST-SIA. 
 
-# Nested build directory
-/build*
+Meine Forschungsarbeit sowie die abschließende Bearbeitung des Gutachtens, der Dokumentationsreihe und des Meta-Abstracts befinden sich weiterhin faktisch im Stillstand.
 
-#==============================================================================#
-# Explicit files to ignore (only matches one).
-#==============================================================================#
-# Various tag programs
-/tags
-/TAGS
-/GPATH
-/GRTAGS
-/GSYMS
-/GTAGS
-/ID
-.gitusers
-autom4te.cache
-cscope.files
-cscope.out
-autoconf/aclocal.m4
-autoconf/autom4te.cache
-/compile_commands.json
-/tablegen_compile_commands.yml
-# Visual Studio built-in CMake configuration
-/CMakeSettings.json
-# CLion project configuration
-/.idea
-/cmake-build*
-# Coding assistants' stuff
-.agents/
-/CLAUDE.md
-/instructions.md
-.claude/
-/GEMINI.md
-.gemini/
-AGENTS.md
-.codex/
-# Cursor specific files
-.cursor
-.cursorignore
-.cursorindexingignore
+Ein konzentriertes und wissenschaftlich strukturiertes Arbeiten ist unter den aktuellen Umständen nicht möglich. Die fortlaufenden Standortwechsel, die fehlende dauerhafte Wohnsituation sowie die anhaltende psychische und organisatorische Belastung verhindern, dass ich meine Arbeiten ordnungsgemäß und in der erforderlichen Ruhe zum Abschluss bringen kann.
 
-#==============================================================================#
-# Directories to ignore (do not add trailing '/'s, they skip symlinks).
-#==============================================================================#
-# VS2017 and VSCode config files.
-.vscode
-.vs
-#zed config files
-.zed
-# pythonenv for github Codespaces
-pythonenv*
-# clangd index. (".clangd" is a config file now, thus trailing slash)
-.clangd/
-.cache
-.clangd
-# static analyzer regression testing project files
-/clang/utils/analyzer/projects/*/CachedSource
-/clang/utils/analyzer/projects/*/PatchedSource
-/clang/utils/analyzer/projects/*/ScanBuildResults
-/clang/utils/analyzer/projects/*/RefScanBuildResults
-# automodapi puts generated documentation files here.
-/lldb/docs/python_api/
+Ich befinde mich dadurch dauerhaft in einem Zustand organisatorischer Unsicherheit und mentaler Überlastung. Ein wissenschaftlicher Arbeitsfluss („Flow“) kann unter diesen Bedingungen nicht entstehen beziehungsweise nicht dauerhaft aufrechterhalten werden.
+
+Aus diesem Grund dokumentiere ich diesen Zustand erneut öffentlich als Bestandteil der fortlaufenden Chain-of-Custody-Dokumentation sowie der rechtswissenschaftlichen und forensischen Gesamtaufarbeitung
